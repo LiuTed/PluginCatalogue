@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "jrrp",
   "latest_version": "1.0.1",
-  "etag": "\"e1823b44271f5c2cb1b763a6b7bffd632642e5cae5dfbb3e171c25153bfb4f29\"",
+  "etag": "\"2d118a6cf9a915339f6ce2434c2cab8759b2d10ef8186a79bbf206bf44b9389f\"",
   "releases": [
     {
       "url": "https://github.com/HuajiMURsMC/jrrp/releases/tag/1.0.1",
@@ -13,7 +13,7 @@
         {
           "name": "Jrrp-v1.0.1.mcdr",
           "size": 13913,
-          "download_count": 0,
+          "download_count": 1,
           "created_at": "2022-03-12T02:58:35Z",
           "browser_download_url": "https://github.com/HuajiMURsMC/jrrp/releases/download/1.0.1/Jrrp-v1.0.1.mcdr"
         }
