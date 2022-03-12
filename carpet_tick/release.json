@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "carpet_tick",
+  "latest_version": "1.0.0",
   "etag": "\"93033c157f29f4036e32337601828ed77f9b6074cb3a148776432fca4d77363e\"",
   "releases": [
     {
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "1.0.0"
     }
-  ],
-  "latest_version": "1.0.0"
+  ]
 }
