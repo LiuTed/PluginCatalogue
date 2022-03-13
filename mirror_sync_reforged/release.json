@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "mirror_sync_reforged",
+  "latest_version": "1.0.0",
   "etag": "\"5a3d745fbd1c9c5ed31d2ec8084f3a221f95b2b1ab91ddf39fdb4e4dda8d033e\"",
   "releases": [
     {
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "1.0.0"
     }
-  ],
-  "latest_version": "1.0.0"
+  ]
 }
