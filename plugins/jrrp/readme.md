@@ -9,7 +9,7 @@
 - Plugin ID: `jrrp`
 - Plugin Name: Jrrp
 - Version: 1.0.1
-  - Metadata version: 1.0.1
+  - Metadata version: 1.0.2
   - Release version: 1.0.1
 - Total downloads: 1
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
