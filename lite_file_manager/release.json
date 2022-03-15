@@ -1,27 +1,9 @@
 {
   "schema_version": 2,
   "id": "lite_file_manager",
-  "latest_version": "1.3.0",
-  "etag": "\"797b40c6e52acc1778e7a363811fa858996a2ae48d519f968fe4c5265d6685c9\"",
+  "latest_version": "1.2.1",
+  "etag": "\"949d95a9da56c236cc32565f17937cf3bbe6816cef900d00965a42610e085c41\"",
   "releases": [
-    {
-      "url": "https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.3.0",
-      "name": "",
-      "tag_name": "v1.3.0",
-      "created_at": "2021-08-26T13:08:11Z",
-      "assets": [
-        {
-          "name": "LiteFileManager-v1.3.0.mcdr",
-          "size": 25224,
-          "download_count": 1360,
-          "created_at": "2021-08-26T13:57:51Z",
-          "browser_download_url": "https://github.com/MCDReforged/LiteFileManager/releases/download/v1.3.0/LiteFileManager-v1.3.0.mcdr"
-        }
-      ],
-      "description": "- Upgraded to MCDR 2.1+ better translation logic\r\n",
-      "prerelease": false,
-      "parsed_version": "1.3.0"
-    },
     {
       "url": "https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.2.1",
       "name": "LiteFileManager v1.2.1",
