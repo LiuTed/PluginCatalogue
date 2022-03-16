@@ -9,7 +9,7 @@
 - Plugin ID: `join_motd_plus`
 - Plugin Name: joinMOTD++
 - Version: 3.1.3
-  - Metadata version: 3.1.2
+  - Metadata version: 3.1.3
   - Release version: 3.1.3
 - Total downloads: 2574
 - Authors: [Alex3236](https://github.com/alex3236)
