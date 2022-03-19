@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "jrrps",
-  "latest_version": "2.0.0",
-  "etag": "\"288a975bfaf2486090cbfbf91d66ddba7713c39b0bb475038ec742118a917ed9\"",
+  "latest_version": "2.3.0",
+  "etag": "\"8aca93f77aac4596a10c9884b0098e358d9e070a6d35e5c47c9719e743f2979f\"",
   "releases": [
+    {
+      "url": "https://github.com/SkyDynamic/jrrps/releases/tag/2.3.0",
+      "name": "Jrrp_MCDR_2.3.0",
+      "tag_name": "2.3.0",
+      "created_at": "2022-03-12T10:33:37Z",
+      "assets": [
+        {
+          "name": "jrrp2.3.0.mcdr",
+          "size": 2784,
+          "download_count": 0,
+          "created_at": "2022-03-19T09:27:11Z",
+          "browser_download_url": "https://github.com/SkyDynamic/jrrps/releases/download/2.3.0/jrrp2.3.0.mcdr"
+        }
+      ],
+      "description": "添加关闭/开启插件的功能\r\n添加进入服务器后检测玩家是否已完成jrrp\r\n优化一些代码",
+      "prerelease": false,
+      "parsed_version": "2.3.0"
+    },
     {
       "url": "https://github.com/SkyDynamic/jrrps/releases/tag/2.0.0",
       "name": "Jrrp_MCDR_v2.0.0",
