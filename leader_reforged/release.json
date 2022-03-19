@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "leader_reforged",
+  "latest_version": "1.0.0",
   "etag": "\"79af3a712f0c3d7bb726b92cbc80fe11089926304fed4a351c4cd0b8f1b0ce45\"",
   "releases": [
     {
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "1.0.0"
     }
-  ],
-  "latest_version": "1.0.0"
+  ]
 }
