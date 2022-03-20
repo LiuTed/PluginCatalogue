@@ -8,9 +8,9 @@
 
 - Plugin ID: `leader_reforged`
 - Plugin Name: Leader Reforged
-- Version: 1.0.1
-  - Metadata version: 1.0.1
-  - Release version: 1.0.1
+- Version: 1.0.2
+  - Metadata version: 1.0.2
+  - Release version: 1.0.2
 - Total downloads: 0
 - Authors: [XavierWah](https://github.com/XavierWah)
 - Repository: https://github.com/Minecraft-AMS/Leader-Reforged
@@ -36,6 +36,7 @@ A simplified and reforged version for Leader, allowing to mark a leader.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [leader_reforged-v1.0.2.mcdr](https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.2) | 1.0.2 | 2022/03/20 14:05:55 | 4.72KB | 0 | [Download](https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.0.2/leader_reforged-v1.0.2.mcdr) |
 | [leader_reforged-v1.0.1.mcdr](https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.1) | 1.0.1 | 2022/03/20 02:45:03 | 2.03KB | 0 | [Download](https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.0.1/leader_reforged-v1.0.1.mcdr) |
 | [leader_reforged-v1.0.0.mcdr](https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.0) | 1.0.0 | 2022/03/19 15:09:16 | 1.65KB | 0 | [Download](https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.0.0/leader_reforged-v1.0.0.mcdr) |
 
