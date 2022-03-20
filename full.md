@@ -576,7 +576,7 @@ A plugin to check cpu temp regularly.
 - Version: 2.2.0
   - Metadata version: 2.2.0
   - Release version: 2.2.0
-- Total downloads: 4139
+- Total downloads: 4140
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/daycount-NBT
 - Labels: [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
@@ -765,7 +765,7 @@ Make file transfers faster!
 - Version: 1.2.2
   - Metadata version: 1.2.2
   - Release version: 1.2.2
-- Total downloads: 6005
+- Total downloads: 6006
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Here
 - Labels: [`Information`](/labels/information/readme.md)
@@ -789,7 +789,7 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 502 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
+| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 503 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
 | [Here-v1.2.1.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.1) | 1.2.1 | 2021/09/01 15:21:46 | 15.69KB | 1496 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.1/Here-v1.2.1.mcdr) |
 | [Here-v1.2.0.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.0) | 1.2.0 | 2021/08/27 05:30:36 | 15.38KB | 1322 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.0/Here-v1.2.0.mcdr) |
 
@@ -1064,9 +1064,9 @@ Today's horoscope based on `random.randint(0, 100)`
 
 - Plugin ID: `leader_reforged`
 - Plugin Name: Leader Reforged
-- Version: 1.0.0
+- Version: 1.0.1
   - Metadata version: 1.0.1
-  - Release version: 1.0.0
+  - Release version: 1.0.1
 - Total downloads: 0
 - Authors: [XavierWah](https://github.com/XavierWah)
 - Repository: https://github.com/Minecraft-AMS/Leader-Reforged
@@ -1092,6 +1092,7 @@ A simplified and reforged version for Leader, allowing to mark a leader.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [leader_reforged-v1.0.1.mcdr](https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.1) | 1.0.1 | 2022/03/20 02:45:03 | 2.03KB | 0 | [Download](https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.0.1/leader_reforged-v1.0.1.mcdr) |
 | [leader_reforged-v1.0.0.mcdr](https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.0) | 1.0.0 | 2022/03/19 15:09:16 | 1.65KB | 0 | [Download](https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.0.0/leader_reforged-v1.0.0.mcdr) |
 
 ## lite_file_manager
