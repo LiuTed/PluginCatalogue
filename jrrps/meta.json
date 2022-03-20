@@ -1,7 +1,7 @@
 {
   "id": "jrrps",
   "name": "Jrrps Plg",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "repository": "https://github.com/SkyDynamic/jrrps",
   "labels": [
     "tool"
@@ -10,7 +10,8 @@
     "SkyDynamic"
   ],
   "dependencies": {
-    "mcdreforged": ">=2.0.0"
+    "mcdreforged": ">=2.0.0",
+    "apscheduler": ">=3.9.1"
   },
   "requirements": [],
   "description": {

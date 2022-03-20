@@ -1,44 +1,26 @@
 {
   "schema_version": 2,
   "id": "jrrps",
-  "latest_version": "2.3.1",
-  "etag": "\"6abd9a3b97c129199487c9b429abb1dd0e03c3d52dc276be8228ccb3c8593206\"",
+  "latest_version": "2.3.2",
+  "etag": "\"e33ab4b906f9e91308c21e90696a031c3c485391b8c38616208464690036eafe\"",
   "releases": [
     {
-      "url": "https://github.com/SkyDynamic/jrrps/releases/tag/2.3.1",
-      "name": "Jrrp_MCDR_2.3.1",
-      "tag_name": "2.3.1",
-      "created_at": "2022-03-19T10:32:51Z",
+      "url": "https://github.com/SkyDynamic/jrrps/releases/tag/2.3.2",
+      "name": "Jrrp_MCDR_2.3.2",
+      "tag_name": "2.3.2",
+      "created_at": "2022-03-20T01:20:34Z",
       "assets": [
         {
-          "name": "jrrp2.3.1.mcdr",
-          "size": 2795,
-          "download_count": 1,
-          "created_at": "2022-03-19T10:33:39Z",
-          "browser_download_url": "https://github.com/SkyDynamic/jrrps/releases/download/2.3.1/jrrp2.3.1.mcdr"
-        }
-      ],
-      "description": "修复on_player_joined()参数报错的问题",
-      "prerelease": false,
-      "parsed_version": "2.3.1"
-    },
-    {
-      "url": "https://github.com/SkyDynamic/jrrps/releases/tag/2.3.0",
-      "name": "Jrrp_MCDR_2.3.0",
-      "tag_name": "2.3.0",
-      "created_at": "2022-03-12T10:33:37Z",
-      "assets": [
-        {
-          "name": "jrrp2.3.0.mcdr",
-          "size": 2784,
+          "name": "jrrp2.3.2.mcdr",
+          "size": 2771,
           "download_count": 0,
-          "created_at": "2022-03-19T09:27:11Z",
-          "browser_download_url": "https://github.com/SkyDynamic/jrrps/releases/download/2.3.0/jrrp2.3.0.mcdr"
+          "created_at": "2022-03-20T01:21:46Z",
+          "browser_download_url": "https://github.com/SkyDynamic/jrrps/releases/download/2.3.2/jrrp2.3.2.mcdr"
         }
       ],
-      "description": "添加关闭/开启插件的功能\r\n添加进入服务器后检测玩家是否已完成jrrp\r\n优化一些代码",
+      "description": "修复on_player_joined()参数报错的问题\r\n修复无法自动删除数据的bug",
       "prerelease": false,
-      "parsed_version": "2.3.0"
+      "parsed_version": "2.3.2"
     },
     {
       "url": "https://github.com/SkyDynamic/jrrps/releases/tag/2.0.0",
