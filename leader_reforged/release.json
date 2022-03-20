@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "leader_reforged",
-  "latest_version": "1.0.1",
-  "etag": "\"0a03b6af939112894ae5479374dd4ef1842aceda9d84edb3b869ac2d24e33d9f\"",
+  "latest_version": "1.0.2",
+  "etag": "\"90cbe269a69f20f3a328596f514f39130aa42ad313ae92fe1e286918cc6988e6\"",
   "releases": [
+    {
+      "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.2",
+      "name": "Release 1.0.2",
+      "tag_name": "v1.0.2",
+      "created_at": "2022-03-20T14:03:08Z",
+      "assets": [
+        {
+          "name": "leader_reforged-v1.0.2.mcdr",
+          "size": 4831,
+          "download_count": 0,
+          "created_at": "2022-03-20T14:05:55Z",
+          "browser_download_url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.0.2/leader_reforged-v1.0.2.mcdr"
+        }
+      ],
+      "description": "- Now you can control the maximum number of leaders by editing `config/leader_reforged/config.json`, which will contain more configurations with development.",
+      "prerelease": false,
+      "parsed_version": "1.0.2"
+    },
     {
       "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.1",
       "name": "Release 1.0.1",
