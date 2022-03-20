@@ -9,7 +9,7 @@
 - 插件 ID: `leader_reforged`
 - 插件名: Leader Reforged
 - 版本: 1.0.0
-  - 元数据版本: 1.0.0
+  - 元数据版本: 1.0.1
   - 发布版本: 1.0.0
 - 总下载量: 0
 - 作者: [XavierWah](https://github.com/XavierWah)

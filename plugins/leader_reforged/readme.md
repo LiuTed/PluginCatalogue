@@ -9,7 +9,7 @@
 - Plugin ID: `leader_reforged`
 - Plugin Name: Leader Reforged
 - Version: 1.0.0
-  - Metadata version: 1.0.0
+  - Metadata version: 1.0.1
   - Release version: 1.0.0
 - Total downloads: 0
 - Authors: [XavierWah](https://github.com/XavierWah)
