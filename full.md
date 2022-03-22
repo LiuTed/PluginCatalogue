@@ -988,7 +988,7 @@ Features:
 - Version: 2.3.2
   - Metadata version: 2.3.2
   - Release version: 2.3.2
-- Total downloads: 2
+- Total downloads: 4
 - Authors: [SkyDynamic](https://github.com/SkyDynamic)
 - Repository: https://github.com/SkyDynamic/jrrps
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -1015,8 +1015,8 @@ Today's horoscope based on `random.randint(0, 100)`
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
 | [jrrp2.3.2.mcdr](https://github.com/SkyDynamic/jrrps/releases/tag/2.3.2) | 2.3.2 | 2022/03/20 01:21:46 | 2.71KB | 0 | [Download](https://github.com/SkyDynamic/jrrps/releases/download/2.3.2/jrrp2.3.2.mcdr) |
-| [jrrp2.0.0.mcdr](https://github.com/SkyDynamic/jrrps/releases/tag/2.0.0) | 2.0.0 | 2022/03/12 06:40:17 | 4.65KB | 2 | [Download](https://github.com/SkyDynamic/jrrps/releases/download/2.0.0/jrrp2.0.0.mcdr) |
-| [jrrp.mcdr](https://github.com/SkyDynamic/jrrps/releases/tag/1.1.0) | 1.1.0 | 2022/03/12 02:28:12 | 3.65KB | 0 | [Download](https://github.com/SkyDynamic/jrrps/releases/download/1.1.0/jrrp.mcdr) |
+| [jrrp2.0.0.mcdr](https://github.com/SkyDynamic/jrrps/releases/tag/2.0.0) | 2.0.0 | 2022/03/12 06:40:17 | 4.65KB | 3 | [Download](https://github.com/SkyDynamic/jrrps/releases/download/2.0.0/jrrp2.0.0.mcdr) |
+| [jrrp.mcdr](https://github.com/SkyDynamic/jrrps/releases/tag/1.1.0) | 1.1.0 | 2022/03/12 02:28:12 | 3.65KB | 1 | [Download](https://github.com/SkyDynamic/jrrps/releases/download/1.1.0/jrrp.mcdr) |
 
 ## lazytp
 
@@ -1064,9 +1064,9 @@ Today's horoscope based on `random.randint(0, 100)`
 
 - Plugin ID: `leader_reforged`
 - Plugin Name: Leader Reforged
-- Version: 1.0.2
-  - Metadata version: 1.0.2
-  - Release version: 1.0.2
+- Version: 1.0.3
+  - Metadata version: 1.0.3
+  - Release version: 1.0.3
 - Total downloads: 0
 - Authors: [XavierWah](https://github.com/XavierWah)
 - Repository: https://github.com/Minecraft-AMS/Leader-Reforged
@@ -1092,9 +1092,9 @@ A simplified and reforged version for Leader, allowing to mark a leader.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [leader_reforged-v1.0.3.mcdr](https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.3) | 1.0.3 | 2022/03/22 00:22:04 | 4.53KB | 0 | [Download](https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.0.3/leader_reforged-v1.0.3.mcdr) |
 | [leader_reforged-v1.0.2.mcdr](https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.2) | 1.0.2 | 2022/03/20 14:05:55 | 4.72KB | 0 | [Download](https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.0.2/leader_reforged-v1.0.2.mcdr) |
 | [leader_reforged-v1.0.1.mcdr](https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.1) | 1.0.1 | 2022/03/20 02:45:03 | 2.03KB | 0 | [Download](https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.0.1/leader_reforged-v1.0.1.mcdr) |
-| [leader_reforged-v1.0.0.mcdr](https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.0) | 1.0.0 | 2022/03/19 15:09:16 | 1.65KB | 0 | [Download](https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.0.0/leader_reforged-v1.0.0.mcdr) |
 
 ## lite_file_manager
 
