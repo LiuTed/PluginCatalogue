@@ -1,9 +1,45 @@
 {
   "schema_version": 2,
   "id": "leader_reforged",
-  "latest_version": "1.0.3",
-  "etag": "\"b7569543c998fc50427270b835ef13cf7da4158962ec96b76da3cee046ecd4d6\"",
+  "latest_version": "1.1.0-patched",
+  "etag": "\"5d71a095abe3cd3e17777d576119b5f88e867fa2f05b2ca075ce2209432e7e6c\"",
   "releases": [
+    {
+      "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.0-patched",
+      "name": "Release 1.1.0 Patched",
+      "tag_name": "v1.1.0-patched",
+      "created_at": "2022-03-22T06:07:43Z",
+      "assets": [
+        {
+          "name": "leader_reforged-v1.1.0-patched.mcdr",
+          "size": 9922,
+          "download_count": 0,
+          "created_at": "2022-03-22T06:09:16Z",
+          "browser_download_url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.1.0-patched/leader_reforged-v1.1.0-patched.mcdr"
+        }
+      ],
+      "description": "- Fixed bug `staticmethod object is not callable` on some Python interpreters.",
+      "prerelease": false,
+      "parsed_version": "1.1.0-patched"
+    },
+    {
+      "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.0",
+      "name": "Release 1.1.0",
+      "tag_name": "v1.1.0",
+      "created_at": "2022-03-22T05:43:13Z",
+      "assets": [
+        {
+          "name": "leader_reforged-v1.1.0.mcdr",
+          "size": 9958,
+          "download_count": 2,
+          "created_at": "2022-03-22T05:45:03Z",
+          "browser_download_url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.1.0/leader_reforged-v1.1.0.mcdr"
+        }
+      ],
+      "description": "This is Leader Reforged 1.1.0!\r\nWe have added some new features, so you can use it more conveniently!\r\n- Modified usage `!!leader`, now it shows help messages.\r\n- Added usage `!!leader + [Player]` for marking players.\r\n- Added usage `!!leader - [Player]` for unmarking players.\r\n- Added usage `!!leader ?` for querying present leaders.\r\n\r\nThere are many more changes behind, read our source code if you are interested in it.",
+      "prerelease": false,
+      "parsed_version": "1.1.0"
+    },
     {
       "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.3",
       "name": "Release 1.0.3",
@@ -13,7 +49,7 @@
         {
           "name": "leader_reforged-v1.0.3.mcdr",
           "size": 4637,
-          "download_count": 0,
+          "download_count": 3,
           "created_at": "2022-03-22T00:22:04Z",
           "browser_download_url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.0.3/leader_reforged-v1.0.3.mcdr"
         }
@@ -31,7 +67,7 @@
         {
           "name": "leader_reforged-v1.0.2.mcdr",
           "size": 4831,
-          "download_count": 0,
+          "download_count": 7,
           "created_at": "2022-03-20T14:05:55Z",
           "browser_download_url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.0.2/leader_reforged-v1.0.2.mcdr"
         }
@@ -49,7 +85,7 @@
         {
           "name": "leader_reforged-v1.0.1.mcdr",
           "size": 2081,
-          "download_count": 0,
+          "download_count": 4,
           "created_at": "2022-03-20T02:45:03Z",
           "browser_download_url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.0.1/leader_reforged-v1.0.1.mcdr"
         }
@@ -67,7 +103,7 @@
         {
           "name": "leader_reforged-v1.0.0.mcdr",
           "size": 1692,
-          "download_count": 0,
+          "download_count": 2,
           "created_at": "2022-03-19T15:09:16Z",
           "browser_download_url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.0.0/leader_reforged-v1.0.0.mcdr"
         }
