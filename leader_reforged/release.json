@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "leader_reforged",
-  "latest_version": "1.0.2",
-  "etag": "\"90cbe269a69f20f3a328596f514f39130aa42ad313ae92fe1e286918cc6988e6\"",
+  "latest_version": "1.0.3",
+  "etag": "\"b7569543c998fc50427270b835ef13cf7da4158962ec96b76da3cee046ecd4d6\"",
   "releases": [
+    {
+      "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.3",
+      "name": "Release 1.0.3",
+      "tag_name": "v1.0.3",
+      "created_at": "2022-03-22T00:19:26Z",
+      "assets": [
+        {
+          "name": "leader_reforged-v1.0.3.mcdr",
+          "size": 4637,
+          "download_count": 0,
+          "created_at": "2022-03-22T00:22:04Z",
+          "browser_download_url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.0.3/leader_reforged-v1.0.3.mcdr"
+        }
+      ],
+      "description": "- Refactored command implement.",
+      "prerelease": false,
+      "parsed_version": "1.0.3"
+    },
     {
       "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.2",
       "name": "Release 1.0.2",
