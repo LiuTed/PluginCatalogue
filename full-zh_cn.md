@@ -450,8 +450,8 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
   - 元数据版本: 0.0.2
   - 发布版本: 0.0.2
 - 总下载量: 1440
-- 作者: [zhang_anzhi](https://github.com/zhang-anzhi)
-- 仓库: https://github.com/zhang-anzhi/MCDReforgedPlugins
+- 作者: [AnzhiZhang](https://github.com/AnzhiZhang)
+- 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 支持原版显示格式化代码
 
@@ -803,8 +803,8 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
   - 元数据版本: 0.0.2
   - 发布版本: 0.0.2
 - 总下载量: 1592
-- 作者: [zhang_anzhi](https://github.com/zhang-anzhi)
-- 仓库: https://github.com/zhang-anzhi/MCDReforgedPlugins
+- 作者: [AnzhiZhang](https://github.com/AnzhiZhang)
+- 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 获取服务器信息
 
@@ -2240,8 +2240,8 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
   - 元数据版本: 0.0.2
   - 发布版本: 0.0.2
 - 总下载量: 1545
-- 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [zhang_anzhi](https://github.com/zhang-anzhi)
-- 仓库: https://github.com/zhang-anzhi/MCDReforgedPlugins
+- 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [AnzhiZhang](https://github.com/AnzhiZhang)
+- 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
 - 描述: 开关服助手
 

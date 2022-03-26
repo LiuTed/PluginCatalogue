@@ -450,8 +450,8 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
   - Metadata version: 0.0.2
   - Release version: 0.0.2
 - Total downloads: 1440
-- Authors: [zhang_anzhi](https://github.com/zhang-anzhi)
-- Repository: https://github.com/zhang-anzhi/MCDReforgedPlugins
+- Authors: [AnzhiZhang](https://github.com/AnzhiZhang)
+- Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Support formatting codes for vanilla
 
@@ -803,8 +803,8 @@ Make file transfers faster!
   - Metadata version: 0.0.2
   - Release version: 0.0.2
 - Total downloads: 1592
-- Authors: [zhang_anzhi](https://github.com/zhang-anzhi)
-- Repository: https://github.com/zhang-anzhi/MCDReforgedPlugins
+- Authors: [AnzhiZhang](https://github.com/AnzhiZhang)
+- Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Get server info
 
@@ -2239,8 +2239,8 @@ testing basic server problem.
   - Metadata version: 0.0.2
   - Release version: 0.0.2
 - Total downloads: 1545
-- Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [zhang_anzhi](https://github.com/zhang-anzhi)
-- Repository: https://github.com/zhang-anzhi/MCDReforgedPlugins
+- Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [AnzhiZhang](https://github.com/AnzhiZhang)
+- Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Start and stop server helper
 

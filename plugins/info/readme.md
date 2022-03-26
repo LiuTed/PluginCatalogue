@@ -12,8 +12,8 @@
   - Metadata version: 0.0.2
   - Release version: 0.0.2
 - Total downloads: 1592
-- Authors: [zhang_anzhi](https://github.com/zhang-anzhi)
-- Repository: https://github.com/zhang-anzhi/MCDReforgedPlugins
+- Authors: [AnzhiZhang](https://github.com/AnzhiZhang)
+- Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Get server info
 

@@ -12,8 +12,8 @@
   - 元数据版本: 0.0.2
   - 发布版本: 0.0.2
 - 总下载量: 1440
-- 作者: [zhang_anzhi](https://github.com/zhang-anzhi)
-- 仓库: https://github.com/zhang-anzhi/MCDReforgedPlugins
+- 作者: [AnzhiZhang](https://github.com/AnzhiZhang)
+- 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 支持原版显示格式化代码
 
