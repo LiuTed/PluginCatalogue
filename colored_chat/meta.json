@@ -2,12 +2,12 @@
   "id": "colored_chat",
   "name": "ColoredChat",
   "version": "0.0.2",
-  "repository": "https://github.com/zhang-anzhi/MCDReforgedPlugins",
+  "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
   "labels": [
     "tool"
   ],
   "authors": [
-    "zhang_anzhi"
+    "AnzhiZhang"
   ],
   "dependencies": {},
   "requirements": [],
