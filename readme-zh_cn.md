@@ -28,7 +28,7 @@
 | [Cato Plugin](/plugins/cato/readme-zh_cn.md) | [Harry-zklcdc](https://github.com/Harry-zklcdc) | Plugin Cato | 2021/10/31 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [ChatBridge v2 for MCDR](/plugins/chatbridge/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 跨服聊天 | 2022/03/10 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [ChatBridgeReforged_MC](/plugins/chatbridgereforged_mc/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是） | 2022/03/04 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [ColoredChat](/plugins/colored_chat/readme-zh_cn.md) | [AnzhiZhang](https://github.com/AnzhiZhang) | 支持原版显示格式化代码 | 2021/08/23 | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [*数据拉取失败*](/plugins/colored_chat/readme-zh_cn.md) | [AnzhiZhang](https://github.com/AnzhiZhang) | *数据拉取失败* | 2021/08/23 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [cpu_temp](/plugins/cpu_temp/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 服务器温度警报插件。 | 2021/10/26 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Crash Restart](/plugins/crash_restart/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 在服务端崩溃后自动重启服务器的插件 | 2021/08/22 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [DayCount NBT](/plugins/daycount_nbt/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :calendar: 获取和输出服务器开服时间。 | 2022/01/10 | [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
