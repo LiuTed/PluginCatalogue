@@ -21,6 +21,7 @@
 
 | Plugin ID | Requirement |
 | --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### Requirements
 

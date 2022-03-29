@@ -15,12 +15,13 @@
 - 作者: [Ivan1F](https://github.com/Ivan-1F)
 - 仓库: https://github.com/Ivan-1F/MirrorSyncReforged
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: Sync survival server world to the mirror server
+- 描述: 一个用于同步生存服存档至镜像服的插件
 
 ### 插件依赖
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### 包依赖
 
