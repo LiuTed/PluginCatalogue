@@ -9,11 +9,14 @@
   "authors": [
     "Ivan1F"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "mcdreforged": ">=2.0.0"
+  },
   "requirements": [
     "mcdreforged~=2.3.2"
   ],
   "description": {
-    "en_us": "Sync survival server world to the mirror server"
+    "en_us": "Sync survival server world to the mirror server",
+    "zh_cn": "一个用于同步生存服存档至镜像服的插件"
   }
 }
