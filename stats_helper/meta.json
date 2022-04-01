@@ -1,7 +1,7 @@
 {
   "id": "stats_helper",
   "name": "Stats Helper",
-  "version": "7.4.0",
+  "version": "7.5.0",
   "repository": "https://github.com/TISUnion/StatsHelper",
   "labels": [
     "tool",
