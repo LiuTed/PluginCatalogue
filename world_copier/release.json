@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "world_copier",
+  "latest_version": "0.1.0",
   "etag": "\"ee257ca48b2eb44a9ec322bbb7efa2f057f34b8830b9f2a2d9aab33ee070fefc\"",
   "releases": [
     {
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "0.1.0"
     }
-  ],
-  "latest_version": "0.1.0"
+  ]
 }
