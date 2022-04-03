@@ -1400,6 +1400,44 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 | --- | --- | --- | --- | --- | --- |
 | [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 2133 | [下载](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 
+## minecraft_version_api
+
+### 基本信息
+
+- 插件 ID: `minecraft_version_api`
+- 插件名: Minecraft Version API
+- 版本: 1.0.0
+  - 元数据版本: 1.0.0
+  - 发布版本: 1.0.0
+- 总下载量: 0
+- 作者: [Ivan1F](https://github.com/Ivan-1F)
+- 仓库: https://github.com/Ivan-1F/MinecraftVersionAPI
+- 标签: [`API`](/labels/api/readme-zh_cn.md)
+- 描述: 一个用于获取 Minecraft 服务端版本的 API 插件
+
+### 插件依赖
+
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+
+### 包依赖
+
+| Python 包 | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | ~=2.3.2 |
+| [parse](https://pypi.org/project/parse) | ~=1.19.0 |
+
+### 介绍
+
+*无*
+
+### 下载
+
+| 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
+| --- | --- | --- | --- | --- | --- |
+| [MinecraftVersionAPI-v1.0.0.mcdr](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.0.0) | 1.0.0 | 2022/04/02 16:19:02 | 2.97KB | 0 | [下载](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/download/v1.0.0/MinecraftVersionAPI-v1.0.0.mcdr) |
+
 ## mirror_server_reforged
 
 ### 基本信息
