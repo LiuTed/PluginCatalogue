@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "minecraft_version_api",
+  "latest_version": "1.0.0",
   "etag": "\"f52fa95f143064db9cbed5c59d71fc2fa4689fa3074e5eb9d0a30d48bd7c12be\"",
   "releases": [
     {
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "1.0.0"
     }
-  ],
-  "latest_version": "1.0.0"
+  ]
 }
