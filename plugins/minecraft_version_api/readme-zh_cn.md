@@ -9,7 +9,7 @@
 - 插件 ID: `minecraft_version_api`
 - 插件名: Minecraft Version API
 - 版本: 1.0.0
-  - 元数据版本: 1.0.0
+  - 元数据版本: 1.1.0
   - 发布版本: 1.0.0
 - 总下载量: 0
 - 作者: [Ivan1F](https://github.com/Ivan-1F)

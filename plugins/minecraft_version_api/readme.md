@@ -9,7 +9,7 @@
 - Plugin ID: `minecraft_version_api`
 - Plugin Name: Minecraft Version API
 - Version: 1.0.0
-  - Metadata version: 1.0.0
+  - Metadata version: 1.1.0
   - Release version: 1.0.0
 - Total downloads: 0
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
