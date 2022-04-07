@@ -9,7 +9,7 @@
 - Plugin ID: `carpet_tick`
 - Plugin Name: Carpet Tick
 - Version: 1.0.0
-  - Metadata version: 1.0.0
+  - Metadata version: 1.1.0
   - Release version: 1.0.0
 - Total downloads: 11
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
@@ -27,6 +27,7 @@
 
 | Python package | Requirement |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | ~=2.3.2 |
 
 ### Introduction
 

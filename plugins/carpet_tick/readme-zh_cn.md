@@ -9,7 +9,7 @@
 - 插件 ID: `carpet_tick`
 - 插件名: Carpet Tick
 - 版本: 1.0.0
-  - 元数据版本: 1.0.0
+  - 元数据版本: 1.1.0
   - 发布版本: 1.0.0
 - 总下载量: 11
 - 作者: [Ivan1F](https://github.com/Ivan-1F)
@@ -27,6 +27,7 @@
 
 | Python 包 | 依赖需求 |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | ~=2.3.2 |
 
 ### 介绍
 
