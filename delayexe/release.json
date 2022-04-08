@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "delayexe",
   "latest_version": "1.0.3",
-  "etag": "\"8db7d14c5b62a7ecbc890e3b514d363ffdb0e1cd198bc5e3753de52c47d14300\"",
+  "etag": "\"281fdb74fc5e518dea99fd2a7f9bda28eb2723fa17cf914751bc6ed160f7ab7b\"",
   "releases": [
     {
       "url": "https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.0.3",
@@ -13,7 +13,7 @@
         {
           "name": "DelayExe-v1.0.3.mcdr",
           "size": 3673,
-          "download_count": 19,
+          "download_count": 20,
           "created_at": "2022-01-07T05:38:57Z",
           "browser_download_url": "https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.0.3/DelayExe-v1.0.3.mcdr"
         }
