@@ -13,7 +13,6 @@
     "mcdreforged": ">=2.0.0"
   },
   "requirements": [
-    "mcdreforged~=2.3.2",
     "parse~=1.19.0"
   ],
   "description": {

@@ -12,9 +12,7 @@
   "dependencies": {
     "mcdreforged": ">=2.0.0"
   },
-  "requirements": [
-    "mcdreforged~=2.3.2"
-  ],
+  "requirements": [],
   "description": {
     "en_us": "A plugin to sync survival server world to the mirror server",
     "zh_cn": "一个用于同步生存服存档至镜像服的插件"

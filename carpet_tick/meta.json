@@ -12,9 +12,7 @@
   "dependencies": {
     "mcdreforged": ">=2.1.0-beta"
   },
-  "requirements": [
-    "mcdreforged~=2.3.2"
-  ],
+  "requirements": [],
   "description": {
     "en_us": "Get server status using carpet /tick command",
     "zh_cn": "使用 Carpet Mod 的 /tick 指令获取服务器信息"
