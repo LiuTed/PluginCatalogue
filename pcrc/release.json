@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "pcrc",
   "latest_version": "1.2.3",
-  "etag": "\"93b37e172d5273a7e37eb801f423833dd7f5bd20f0a94f5ed361903a58ff089d\"",
+  "etag": "\"498286754619a202fb47dd137431d5c0eae3f9fd05558749736264730f223c13\"",
   "releases": [
     {
       "url": "https://github.com/Fallen-Breath/PCRC/releases/tag/v1.2.3",
@@ -63,7 +63,7 @@
         {
           "name": "PCRC.exe",
           "size": 9675471,
-          "download_count": 4,
+          "download_count": 5,
           "created_at": "2022-03-10T08:58:34Z",
           "browser_download_url": "https://github.com/Fallen-Breath/PCRC/releases/download/v1.2.1/PCRC.exe"
         },
