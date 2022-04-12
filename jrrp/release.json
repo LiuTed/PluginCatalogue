@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "jrrp",
   "latest_version": "2.0.1",
-  "etag": "\"11f2bdb1bcb40b1ccc85046a41e4496d4fda08ed7d944f56ab03d9d7332cf584\"",
+  "etag": "\"68c190ec3040c93e4ab5ad4505a743c59d9d3ffb865ce03287ac791307f81640\"",
   "releases": [
     {
       "url": "https://github.com/HuajiMURsMC/jrrp/releases/tag/2.0.1",
@@ -21,24 +21,6 @@
       "description": "Better config",
       "prerelease": false,
       "parsed_version": "2.0.1"
-    },
-    {
-      "url": "https://github.com/HuajiMURsMC/jrrp/releases/tag/1.0.1",
-      "name": "v1.0.1",
-      "tag_name": "1.0.1",
-      "created_at": "2022-03-12T02:56:29Z",
-      "assets": [
-        {
-          "name": "Jrrp-v1.0.1.mcdr",
-          "size": 13913,
-          "download_count": 16,
-          "created_at": "2022-03-12T02:58:35Z",
-          "browser_download_url": "https://github.com/HuajiMURsMC/jrrp/releases/download/1.0.1/Jrrp-v1.0.1.mcdr"
-        }
-      ],
-      "description": "",
-      "prerelease": false,
-      "parsed_version": "1.0.1"
     }
   ]
 }
