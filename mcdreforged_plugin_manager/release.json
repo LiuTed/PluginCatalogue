@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "mcdreforged_plugin_manager",
+  "latest_version": "1.0.0",
   "etag": "\"26561b07ad86937e8514cbfc24256d087b32ed87991938001fc62c1f7eb76f5a\"",
   "releases": [
     {
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "1.0.0"
     }
-  ],
-  "latest_version": "1.0.0"
+  ]
 }
