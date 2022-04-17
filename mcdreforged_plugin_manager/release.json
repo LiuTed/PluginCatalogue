@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "id": "mcdreforged_plugin_manager",
+  "etag": "\"26561b07ad86937e8514cbfc24256d087b32ed87991938001fc62c1f7eb76f5a\"",
+  "releases": [
+    {
+      "url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.0.0",
+      "name": "MCDReforgedPluginManager v1.0.0",
+      "tag_name": "v1.0.0",
+      "created_at": "2022-04-16T14:37:29Z",
+      "assets": [
+        {
+          "name": "MCDReforgedPluginManager-v1.0.0.mcdr",
+          "size": 21393,
+          "download_count": 0,
+          "created_at": "2022-04-17T08:39:08Z",
+          "browser_download_url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.0.0/MCDReforgedPluginManager-v1.0.0.mcdr"
+        }
+      ],
+      "description": "## News\r\n\r\nImplemented the MCDR side\r\n\r\n- Dependency checking\r\n- Update checking\r\n- Plugin installation & uninstallation\r\n- Plugin upgrading\r\n- Plugin searching",
+      "prerelease": false,
+      "parsed_version": "1.0.0"
+    }
+  ],
+  "latest_version": "1.0.0"
+}
