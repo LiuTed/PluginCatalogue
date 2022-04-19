@@ -1,9 +1,45 @@
 {
   "schema_version": 2,
   "id": "mcdreforged_plugin_manager",
-  "latest_version": "1.0.0",
-  "etag": "\"c113e6572aca65d0758b0f76aa64ea854ff818acc03f08f2e18362a1a8427fe7\"",
+  "latest_version": "1.1.1",
+  "etag": "\"92e6c417aef7ad353b32fca5842cf2024602a17ab471d6a17814665c9a30226c\"",
   "releases": [
+    {
+      "url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.1.1",
+      "name": "MCDReforgedPluginManager v1.1.1",
+      "tag_name": "v1.1.1",
+      "created_at": "2022-04-19T03:48:18Z",
+      "assets": [
+        {
+          "name": "MCDReforgedPluginManager-v1.1.1.mcdr",
+          "size": 21551,
+          "download_count": 0,
+          "created_at": "2022-04-19T03:49:16Z",
+          "browser_download_url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.1.1/MCDReforgedPluginManager-v1.1.1.mcdr"
+        }
+      ],
+      "description": "## Fixes\r\n\r\n - Added the missing `install_path` key in the default config",
+      "prerelease": false,
+      "parsed_version": "1.1.1"
+    },
+    {
+      "url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.1.0",
+      "name": "MCDReforgedPluginManager v1.1.0",
+      "tag_name": "v1.1.0",
+      "created_at": "2022-04-19T03:41:41Z",
+      "assets": [
+        {
+          "name": "MCDReforgedPluginManager-v1.1.0.mcdr",
+          "size": 21448,
+          "download_count": 0,
+          "created_at": "2022-04-19T03:43:49Z",
+          "browser_download_url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.1.0/MCDReforgedPluginManager-v1.1.0.mcdr"
+        }
+      ],
+      "description": "## News\r\n\r\n - New config option `install_path`: allows you to specify where to install the plugin\r\n\r\n## Changes\r\n\r\n - Plugins will be upgraded to the same directory (multiple plugin path support)\r\n",
+      "prerelease": false,
+      "parsed_version": "1.1.0"
+    },
     {
       "url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.0.0",
       "name": "MCDReforgedPluginManager v1.0.0",
