@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "leader_reforged",
   "latest_version": "1.1.2",
-  "etag": "\"f642b695d75876e2d1666c19655750f0ea6bfbd19d98804abe5387146b64990a\"",
+  "etag": "\"29a04cc4c34e0f24512b6aaee4f87d833e82a67b69f85480e778675780de59b7\"",
   "releases": [
     {
       "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.2",
@@ -67,7 +67,7 @@
         {
           "name": "leader_reforged-v1.1.0.mcdr",
           "size": 9958,
-          "download_count": 3,
+          "download_count": 4,
           "created_at": "2022-03-22T05:45:03Z",
           "browser_download_url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.1.0/leader_reforged-v1.1.0.mcdr"
         }
