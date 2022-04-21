@@ -19,7 +19,7 @@
 | --- | --- | --- | --- | --- |
 | [AdvancedWhitelistR](/plugins/advanced_whitelist_r/readme-zh_cn.md) | [noionion](https://github.com/2X-ercha) | For outline-model Whitelist | 2022/01/24 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Aluminum](/plugins/aluminum/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | 一个 MCDR 插件管理器。 | 2021/10/23 | [`管理`](/labels/management/readme-zh_cn.md) |
-| [Auto Plugin Reloader](/plugins/auto_plugin_reloader/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 在文件变更时自动重载插件 | 2021/10/01 | [`管理`](/labels/management/readme-zh_cn.md) |
+| [Auto Plugin Reloader](/plugins/auto_plugin_reloader/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 在文件变更时自动重载插件 | 2021/09/30 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Beep](/plugins/beep/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi) | @某人，@ all可作用于所有玩家。使用两个@@小心被打 | 2021/08/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Bot Plugin](/plugins/bot_plugin/readme-zh_cn.md) | [DancingSnow0517](https://github.com/DancingSnow0517) | 管理 carpet 机器人 | 2022/01/09 | [`管理`](/labels/management/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Carpet Bot Manager](/plugins/carpet_bot_manager/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 一个地毯端bot管理插件, 可以点击召唤bot并让其执行系列动作 | 2021/09/07 | [`工具`](/labels/tool/readme-zh_cn.md) |
