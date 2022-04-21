@@ -19,7 +19,7 @@ Plugin Amount: 63
 | --- | --- | --- | --- | --- |
 | [AdvancedWhitelistR](/plugins/advanced_whitelist_r/readme.md) | [noionion](https://github.com/2X-ercha) | For outline-model Whitelist | 2022/01/24 | [`Management`](/labels/management/readme.md) |
 | [Aluminum](/plugins/aluminum/readme.md) | [Alex3236](https://github.com/alex3236) | A MCDReforged plugin manager. | 2021/10/23 | [`Management`](/labels/management/readme.md) |
-| [Auto Plugin Reloader](/plugins/auto_plugin_reloader/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Automatically reload plugins when file changes | 2021/09/30 | [`Management`](/labels/management/readme.md) |
+| [Auto Plugin Reloader](/plugins/auto_plugin_reloader/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Automatically reload plugins when file changes | 2021/10/01 | [`Management`](/labels/management/readme.md) |
 | [Beep](/plugins/beep/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi) | Use @ \<someone\> to ping someone, @ all for everyone. Use @@ for a pogger ping | 2021/08/26 | [`Tool`](/labels/tool/readme.md) |
 | [Bot Plugin](/plugins/bot_plugin/readme.md) | [DancingSnow0517](https://github.com/DancingSnow0517) | 管理 carpet 机器人 | 2022/01/09 | [`Management`](/labels/management/readme.md), [`Tool`](/labels/tool/readme.md) |
 | [Carpet Bot Manager](/plugins/carpet_bot_manager/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | A carpet bot manage plugin, able to spawn bot and make it execute actions | 2021/09/07 | [`Tool`](/labels/tool/readme.md) |
