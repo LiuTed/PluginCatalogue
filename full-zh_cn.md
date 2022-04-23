@@ -1108,7 +1108,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.3.0
   - 元数据版本: 1.3.0
   - 发布版本: 1.3.0
-- 总下载量: 3997
+- 总下载量: 3998
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/LiteFileManager
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -1135,7 +1135,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [LiteFileManager-v1.3.0.mcdr](https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.3.0) | 1.3.0 | 2021/08/26 13:57:51 | 24.63KB | 1377 | [下载](https://github.com/MCDReforged/LiteFileManager/releases/download/v1.3.0/LiteFileManager-v1.3.0.mcdr) |
+| [LiteFileManager-v1.3.0.mcdr](https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.3.0) | 1.3.0 | 2021/08/26 13:57:51 | 24.63KB | 1378 | [下载](https://github.com/MCDReforged/LiteFileManager/releases/download/v1.3.0/LiteFileManager-v1.3.0.mcdr) |
 | [LiteFileManager-v1.2.1.mcdr](https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.2.1) | 1.2.1 | 2021/08/16 17:09:01 | 24.56KB | 1316 | [下载](https://github.com/MCDReforged/LiteFileManager/releases/download/v1.2.1/LiteFileManager-v1.2.1.mcdr) |
 | [LiteFileManager-v1.2.0.mcdr](https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.2.0) | 1.2.0 | 2021/08/16 17:07:34 | 12.46KB | 1304 | [下载](https://github.com/MCDReforged/LiteFileManager/releases/download/v1.2.0/LiteFileManager-v1.2.0.mcdr) |
 
@@ -1148,7 +1148,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.3.1
   - 元数据版本: 1.3.1
   - 发布版本: 1.3.1
-- 总下载量: 1678
+- 总下载量: 1679
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - 仓库: https://github.com/TISUnion/LocationMarker
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
@@ -1174,7 +1174,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 1678 | [下载](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
+| [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 1679 | [下载](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
 
 ## mc_uuid
 
@@ -1413,7 +1413,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.4.1
   - 元数据版本: 1.4.1
   - 发布版本: 1.4.1
-- 总下载量: 2246
+- 总下载量: 2249
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/MinecraftDataAPI
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
@@ -1441,7 +1441,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 2246 | [下载](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
+| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 2249 | [下载](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 
 ## minecraft_version_api
 
@@ -2027,7 +2027,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 - 版本: 1.5.2
   - 元数据版本: 1.5.2
   - 发布版本: 1.5.2
-- 总下载量: 1646
+- 总下载量: 1647
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/RegionFileUpdater
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
@@ -2052,7 +2052,7 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [RegionfileUpdater-v1.5.2.mcdr](https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.5.2) | 1.5.2 | 2022/03/08 15:17:36 | 15.67KB | 31 | [下载](https://github.com/TISUnion/RegionFileUpdater/releases/download/v1.5.2/RegionfileUpdater-v1.5.2.mcdr) |
+| [RegionfileUpdater-v1.5.2.mcdr](https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.5.2) | 1.5.2 | 2022/03/08 15:17:36 | 15.67KB | 32 | [下载](https://github.com/TISUnion/RegionFileUpdater/releases/download/v1.5.2/RegionfileUpdater-v1.5.2.mcdr) |
 | [RegionfileUpdater-v1.5.1.mcdr](https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.5.1) | 1.5.1 | 2021/11/02 15:03:27 | 15.59KB | 73 | [下载](https://github.com/TISUnion/RegionFileUpdater/releases/download/v1.5.1/RegionfileUpdater-v1.5.1.mcdr) |
 | [RegionfileUpdater-v1.5.0.mcdr](https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.5.0) | 1.5.0 | 2021/09/26 17:59:10 | 15.6KB | 222 | [下载](https://github.com/TISUnion/RegionFileUpdater/releases/download/v1.5.0/RegionfileUpdater-v1.5.0.mcdr) |
 
