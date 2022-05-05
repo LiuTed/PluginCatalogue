@@ -7,26 +7,20 @@
 ### 基本信息
 
 - 插件 ID: `mcdr_plugin_panel`
-- 插件名: MCDR Plugin Panel
-- 版本: 1.0.0-alpha.7
-  - 元数据版本: 1.0.0-alpha.7
-  - 发布版本: N/A
+- 版本: *数据拉取失败*
 - 总下载量: 0
 - 作者: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - 仓库: https://github.com/BelowZeroKelvin/MCDRPluginPanel
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
-- 描述: 一个供 MCDR 插件使用的面板
+- 描述: *数据拉取失败*
 
 ### 插件依赖
 
-| 插件 ID | 依赖需求 |
-| --- | --- |
+*数据拉取失败*
 
 ### 包依赖
 
-| Python 包 | 依赖需求 |
-| --- | --- |
-| [ruamel.yaml](https://pypi.org/project/ruamel.yaml) |  |
+*数据拉取失败*
 
 ### 介绍
 

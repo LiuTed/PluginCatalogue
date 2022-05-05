@@ -7,26 +7,20 @@
 ### Basic Information
 
 - Plugin ID: `mcdr_plugin_panel`
-- Plugin Name: MCDR Plugin Panel
-- Version: 1.0.0-alpha.7
-  - Metadata version: 1.0.0-alpha.7
-  - Release version: N/A
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDRPluginPanel
 - Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
-- Description: A panel for MCDR plugin
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [ruamel.yaml](https://pypi.org/project/ruamel.yaml) |  |
+*Data fetching failed*
 
 ### Introduction
 
