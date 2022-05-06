@@ -52,7 +52,7 @@ Offline server whitelist management
 - Version: 0.1.3
   - Metadata version: 0.1.3
   - Release version: 0.1.3
-- Total downloads: 310
+- Total downloads: 311
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/MCDReforged/Aluminum
 - Labels: [`Management`](/labels/management/readme.md)
@@ -81,7 +81,7 @@ A MCDR plugin manager.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Aluminum-v0.1.3.mcdr](https://github.com/MCDReforged/Aluminum/releases/tag/0.1.3) | 0.1.3 | 2021/10/23 13:47:40 | 6.92KB | 306 | [Download](https://github.com/MCDReforged/Aluminum/releases/download/0.1.3/Aluminum-v0.1.3.mcdr) |
+| [Aluminum-v0.1.3.mcdr](https://github.com/MCDReforged/Aluminum/releases/tag/0.1.3) | 0.1.3 | 2021/10/23 13:47:40 | 6.92KB | 307 | [Download](https://github.com/MCDReforged/Aluminum/releases/download/0.1.3/Aluminum-v0.1.3.mcdr) |
 | [Aluminum-v0.1.2.mcdr](https://github.com/MCDReforged/Aluminum/releases/tag/0.1.2) | 0.1.2 | 2021/10/23 13:21:36 | 6.91KB | 2 | [Download](https://github.com/MCDReforged/Aluminum/releases/download/0.1.2/Aluminum-v0.1.2.mcdr) |
 | [Aluminum-v0.1.1.mcdr](https://github.com/MCDReforged/Aluminum/releases/tag/0.1.1) | 0.1.1 | 2021/10/23 10:23:29 | 6.94KB | 1 | [Download](https://github.com/MCDReforged/Aluminum/releases/download/0.1.1/Aluminum-v0.1.1.mcdr) |
 
@@ -94,7 +94,7 @@ A MCDR plugin manager.
 - Version: 1.1.3
   - Metadata version: 1.1.3
   - Release version: 1.1.3
-- Total downloads: 4091
+- Total downloads: 4092
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/AutoPluginReloader
 - Labels: [`Management`](/labels/management/readme.md)
@@ -121,7 +121,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [AutoPluginReloader-v1.1.3.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.3) | 1.1.3 | 2021/10/01 18:23:47 | 17.58KB | 429 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.3/AutoPluginReloader-v1.1.3.mcdr) |
+| [AutoPluginReloader-v1.1.3.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.3) | 1.1.3 | 2021/10/01 18:23:47 | 17.58KB | 430 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.3/AutoPluginReloader-v1.1.3.mcdr) |
 | [AutoPluginReloader-v1.1.2.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.2) | 1.1.2 | 2021/09/30 10:02:54 | 17.59KB | 102 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.2/AutoPluginReloader-v1.1.2.mcdr) |
 | [AutoPluginReloader-v1.1.1.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.1) | 1.1.1 | 2021/09/12 10:20:17 | 17.47KB | 886 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.1/AutoPluginReloader-v1.1.1.mcdr) |
 
@@ -134,7 +134,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 3135
+- Total downloads: 3136
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi)
 - Repository: https://github.com/TISUnion/Beep
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -159,7 +159,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Beep-v1.1.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 14:01:49 | 1.74KB | 1812 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr) |
+| [Beep-v1.1.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 14:01:49 | 1.74KB | 1813 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr) |
 | [Beep-v1.0.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.0.0) | 1.0.0 | 2021/08/21 15:35:36 | 1.67KB | 1323 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.0.0/Beep-v1.0.0.mcdr) |
 
 ## bot_plugin
@@ -209,7 +209,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Version: 0.3.0
   - Metadata version: 0.3.0
   - Release version: 0.3.0
-- Total downloads: 1380
+- Total downloads: 1381
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/CarpetBotManager
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -236,7 +236,7 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [CarpetBotManager-v0.3.0.mcdr](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0) | 0.3.0 | 2021/09/07 17:13:43 | 9.93KB | 1380 | [Download](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr) |
+| [CarpetBotManager-v0.3.0.mcdr](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0) | 0.3.0 | 2021/09/07 17:13:43 | 9.93KB | 1381 | [Download](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr) |
 
 ## carpet_tick
 
@@ -284,7 +284,7 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 - Version: 2.1.1
   - Metadata version: 2.1.1
   - Release version: 2.1.1
-- Total downloads: 4170
+- Total downloads: 4171
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -310,7 +310,7 @@ Help you manage your carpet fake player
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [CarpetBotList-v2.1.1.mcdr](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.1.1) | 2.1.1 | 2021/08/23 06:17:05 | 1.89KB | 1534 | [Download](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/download/v2.1.1/CarpetBotList-v2.1.1.mcdr) |
+| [CarpetBotList-v2.1.1.mcdr](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.1.1) | 2.1.1 | 2021/08/23 06:17:05 | 1.89KB | 1535 | [Download](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/download/v2.1.1/CarpetBotList-v2.1.1.mcdr) |
 | [CarpetBotList-v2.1.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.1.0) | 2.1.0 | 2021/08/16 11:33:40 | 4.08KB | 1316 | [Download](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/download/v2.1.0/CarpetBotList-v2.1.0.mcdr) |
 | [CarpetBotList-v2.0.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.0.0) | 2.0.0 | 2021/08/12 07:45:32 | 3.6KB | 1320 | [Download](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/download/v2.0.0/CarpetBotList-v2.0.0.mcdr) |
 
@@ -543,7 +543,7 @@ A plugin to check cpu temp regularly.
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 1855
+- Total downloads: 1856
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/CrashRestart
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -567,7 +567,7 @@ A plugin to check cpu temp regularly.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [CrashRestart-v1.0.0.mcdr](https://github.com/MCDReforged/CrashRestart/releases/tag/v1.0.0) | 1.0.0 | 2021/08/22 04:31:25 | 13.33KB | 1855 | [Download](https://github.com/MCDReforged/CrashRestart/releases/download/v1.0.0/CrashRestart-v1.0.0.mcdr) |
+| [CrashRestart-v1.0.0.mcdr](https://github.com/MCDReforged/CrashRestart/releases/tag/v1.0.0) | 1.0.0 | 2021/08/22 04:31:25 | 13.33KB | 1856 | [Download](https://github.com/MCDReforged/CrashRestart/releases/download/v1.0.0/CrashRestart-v1.0.0.mcdr) |
 
 ## daycount_nbt
 
@@ -621,7 +621,7 @@ Feature:
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 1505
+- Total downloads: 1506
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDR-Daytime
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -646,7 +646,7 @@ Show time in Minecraft
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Daytime-v1.1.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/tag/v1.1.0) | 1.1.0 | 2021/08/18 04:36:17 | 1.07KB | 1505 | [Download](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/download/v1.1.0/Daytime-v1.1.0.mcdr) |
+| [Daytime-v1.1.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/tag/v1.1.0) | 1.1.0 | 2021/08/18 04:36:17 | 1.07KB | 1506 | [Download](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/download/v1.1.0/Daytime-v1.1.0.mcdr) |
 
 ## delayexe
 
@@ -1901,7 +1901,7 @@ Display the online players for Group server, with click event to quickly join ev
 - Version: 1.0.1
   - Metadata version: 1.0.1
   - Release version: 1.0.1
-- Total downloads: 78
+- Total downloads: 79
 - Authors: [ShiinaRikka](https://github.com/lky1433223)
 - Repository: https://github.com/lky1433223/QQrobot
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -1926,7 +1926,7 @@ Display the online players for Group server, with click event to quickly join ev
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [QQrobot-v1.0.1.mcdr](https://github.com/lky1433223/QQrobot/releases/tag/v1.0.1) | 1.0.1 | 2022/02/10 15:38:12 | 5.05KB | 78 | [Download](https://github.com/lky1433223/QQrobot/releases/download/v1.0.1/QQrobot-v1.0.1.mcdr) |
+| [QQrobot-v1.0.1.mcdr](https://github.com/lky1433223/QQrobot/releases/tag/v1.0.1) | 1.0.1 | 2022/02/10 15:38:12 | 5.05KB | 79 | [Download](https://github.com/lky1433223/QQrobot/releases/download/v1.0.1/QQrobot-v1.0.1.mcdr) |
 
 ## quick_backup_multi
 
@@ -2418,7 +2418,7 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 1915
+- Total downloads: 1916
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/TimedQBM
 - Labels: [`Management`](/labels/management/readme.md)
@@ -2443,7 +2443,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [TimedQBM-v1.1.0.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.1.0) | 1.1.0 | 2022/03/05 06:45:06 | 16.95KB | 154 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.1.0/TimedQBM-v1.1.0.mcdr) |
+| [TimedQBM-v1.1.0.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.1.0) | 1.1.0 | 2022/03/05 06:45:06 | 16.95KB | 155 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.1.0/TimedQBM-v1.1.0.mcdr) |
 | [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 1761 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
 
 ## where_is
@@ -2455,7 +2455,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 250
+- Total downloads: 251
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
 - Labels: [`Information`](/labels/information/readme.md)
@@ -2482,7 +2482,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [WhereIs-v1.0.0.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/1.0.0) | 1.0.0 | 2021/12/31 17:44:56 | 17.84KB | 250 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/1.0.0/WhereIs-v1.0.0.mcdr) |
+| [WhereIs-v1.0.0.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/1.0.0) | 1.0.0 | 2021/12/31 17:44:56 | 17.84KB | 251 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/1.0.0/WhereIs-v1.0.0.mcdr) |
 
 ## wiki_request
 
