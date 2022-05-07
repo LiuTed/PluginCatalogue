@@ -1,7 +1,26 @@
 {
   "schema_version": 2,
   "id": "run_some_commands",
-  "latest_version": "N/A",
-  "etag": "\"1db6a3a21548bf6e068a9a9337e4151e9d1135718e089e7e62dc0509406337bf\"",
-  "releases": []
+  "latest_version": "1.0.0",
+  "etag": "\"9240fd93dbe03de393a57bd7cb2abfeb5faec4a036909504ce6df07ca8928e7d\"",
+  "releases": [
+    {
+      "url": "https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0",
+      "name": "RSM v1.0.0",
+      "tag_name": "v1.0.0",
+      "created_at": "2021-08-20T10:41:28Z",
+      "assets": [
+        {
+          "name": "run_some_commands_v1.0.0.mcdr",
+          "size": 2768,
+          "download_count": 1420,
+          "created_at": "2021-08-20T14:56:00Z",
+          "browser_download_url": "https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr"
+        }
+      ],
+      "description": "",
+      "prerelease": false,
+      "parsed_version": "1.0.0"
+    }
+  ]
 }
