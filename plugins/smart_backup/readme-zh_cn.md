@@ -9,13 +9,13 @@
 - 插件 ID: `smart_backup`
 - 插件名: SmartBackup
 - 版本: 1.2.1
-  - 元数据版本: 1.3.0
+  - 元数据版本: 1.4.0
   - 发布版本: 1.2.1
 - 总下载量: 0
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/smart_backup_mcdr
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: 一个依赖MCDR的备份插件
+- 描述: 一个多功能Minecraft存档备份插件
 
 ### 插件依赖
 
