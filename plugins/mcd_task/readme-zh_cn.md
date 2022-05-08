@@ -9,7 +9,7 @@
 - 插件 ID: `mcd_task`
 - 插件名: Task
 - 版本: 2.1.0
-  - 元数据版本: 2.1.0
+  - 元数据版本: 2.2.0-alpha.1
   - 发布版本: 2.1.0
 - 总下载量: 2821
 - 作者: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
@@ -21,7 +21,7 @@
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.3 |
 
 ### 包依赖
 

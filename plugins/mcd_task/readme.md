@@ -9,7 +9,7 @@
 - Plugin ID: `mcd_task`
 - Plugin Name: Task
 - Version: 2.1.0
-  - Metadata version: 2.1.0
+  - Metadata version: 2.2.0-alpha.1
   - Release version: 2.1.0
 - Total downloads: 2821
 - Authors: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
@@ -21,7 +21,7 @@
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.3 |
 
 ### Requirements
 
