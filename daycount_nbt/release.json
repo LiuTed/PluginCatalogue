@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "daycount_nbt",
   "latest_version": "2.2.0",
-  "etag": "\"d6195600f04a4c48c93b5cc7fe4d8904411c58f18b1607c1848be05b35cd935e\"",
+  "etag": "\"01bcc5cbf111f6f06738abba00e2a613190ad0c7af5fa0fd5198754af3f89153\"",
   "releases": [
     {
       "url": "https://github.com/alex3236/daycount-NBT/releases/tag/v2.2.0",
@@ -85,7 +85,7 @@
         {
           "name": "DayCountNBT-v2.0.1.mcdr",
           "size": 1384,
-          "download_count": 1337,
+          "download_count": 1338,
           "created_at": "2021-08-28T03:20:11Z",
           "browser_download_url": "https://github.com/alex3236/daycount-NBT/releases/download/v2.0.1/DayCountNBT-v2.0.1.mcdr"
         }
