@@ -9,7 +9,7 @@
 - Plugin ID: `smart_backup`
 - Plugin Name: SmartBackup
 - Version: 1.2.1
-  - Metadata version: 1.4.0
+  - Metadata version: 1.4.1
   - Release version: 1.2.1
 - Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)

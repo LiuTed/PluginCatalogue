@@ -9,7 +9,7 @@
 - 插件 ID: `smart_backup`
 - 插件名: SmartBackup
 - 版本: 1.2.1
-  - 元数据版本: 1.4.0
+  - 元数据版本: 1.4.1
   - 发布版本: 1.2.1
 - 总下载量: 0
 - 作者: [zyxkad](https://github.com/zyxkad)
