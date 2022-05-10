@@ -1289,35 +1289,6 @@ Shows tasks of project in progress
 | [Task-v2.0.1.mcdr](https://github.com/TISUnion/Task/releases/tag/2.0.1) | 2.0.1 | 2021/08/27 02:49:35 | 14.2KB | 1352 | [Download](https://github.com/TISUnion/Task/releases/download/2.0.1/Task-v2.0.1.mcdr) |
 | [Task-v2.0.0.mcdr](https://github.com/TISUnion/Task/releases/tag/2.0.0) | 2.0.0 | 2021/08/17 09:09:20 | 14.2KB | 1320 | [Download](https://github.com/TISUnion/Task/releases/download/2.0.0/Task-v2.0.0.mcdr) |
 
-## mcdr_plugin_panel
-
-### Basic Information
-
-- Plugin ID: `mcdr_plugin_panel`
-- Version: *Data fetching failed*
-- Total downloads: 0
-- Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
-- Repository: https://github.com/BelowZeroKelvin/MCDRPluginPanel
-- Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
-
-### Dependencies
-
-*Data fetching failed*
-
-### Requirements
-
-*Data fetching failed*
-
-### Introduction
-
-A panel for MCDR plugin
-
-### Download
-
-| File | Version | Upload Time | Size | Downloads | Operations |
-| --- | --- | --- | --- | --- | --- |
-
 ## mcdr_pycraft_bot
 
 ### Basic Information

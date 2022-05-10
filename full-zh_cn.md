@@ -1289,35 +1289,6 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 | [Task-v2.0.1.mcdr](https://github.com/TISUnion/Task/releases/tag/2.0.1) | 2.0.1 | 2021/08/27 02:49:35 | 14.2KB | 1352 | [下载](https://github.com/TISUnion/Task/releases/download/2.0.1/Task-v2.0.1.mcdr) |
 | [Task-v2.0.0.mcdr](https://github.com/TISUnion/Task/releases/tag/2.0.0) | 2.0.0 | 2021/08/17 09:09:20 | 14.2KB | 1320 | [下载](https://github.com/TISUnion/Task/releases/download/2.0.0/Task-v2.0.0.mcdr) |
 
-## mcdr_plugin_panel
-
-### 基本信息
-
-- 插件 ID: `mcdr_plugin_panel`
-- 版本: *数据拉取失败*
-- 总下载量: 0
-- 作者: [ZeroKelvin](https://github.com/BelowZeroKelvin)
-- 仓库: https://github.com/BelowZeroKelvin/MCDRPluginPanel
-- 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
-- 描述: *数据拉取失败*
-
-### 插件依赖
-
-*数据拉取失败*
-
-### 包依赖
-
-*数据拉取失败*
-
-### 介绍
-
-一个供 MCDR 插件使用的面板
-
-### 下载
-
-| 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
-| --- | --- | --- | --- | --- | --- |
-
 ## mcdr_pycraft_bot
 
 ### 基本信息

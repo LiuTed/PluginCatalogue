@@ -6,7 +6,7 @@
 
 Plugin Index with label `Tool`
 
-Plugin Amount: 31
+Plugin Amount: 30
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -29,7 +29,6 @@ Plugin Amount: 31
 | [Leader Reforged](/plugins/leader_reforged/readme.md) | [XavierWah](https://github.com/XavierWah) | This is a simplified and reforged version for Leader, allowing to mark a leader. | 2022/04/09 | [`Tool`](/labels/tool/readme.md) |
 | [Seen](/plugins/mcd_seen/readme.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Show laziness rank easily | 2021/08/19 | [`Tool`](/labels/tool/readme.md) |
 | [Task](/plugins/mcd_task/readme.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | A plugin to show tasks of project in progress | 2021/12/05 | [`Tool`](/labels/tool/readme.md) |
-| [*Data fetching failed*](/plugins/mcdr_plugin_panel/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | *Data fetching failed* | N/A | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | MCDR Bot powered by pyCraft | 2021/08/19 | [`Tool`](/labels/tool/readme.md) |
 | [MultiRconAPI](/plugins/multi_rcon_api/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | An api to make it easier to control group server by rcon. | 2022/02/02 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [PCRC](/plugins/pcrc/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | PyCraft based Replay Client | 2022/03/28 | [`Tool`](/labels/tool/readme.md) |
