@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "chatbridgereforged_mc",
   "latest_version": "0.2.2",
-  "etag": "\"6d8d8e83792442817a4223cd150ad3d2fee3be23fdddd46b21a4c9fa2118df32\"",
+  "etag": "\"5c2fcc0b1eaf8b01a0471c3f1da369abf0deacf28ab6fd3fc94714f345b0875a\"",
   "releases": [
     {
       "url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.2.2",
@@ -27,7 +27,7 @@
         {
           "name": "ChatBridgeReforged_MC.pyz",
           "size": 49100,
-          "download_count": 5,
+          "download_count": 6,
           "created_at": "2022-04-20T14:40:40Z",
           "browser_download_url": "https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.2/ChatBridgeReforged_MC.pyz"
         },
