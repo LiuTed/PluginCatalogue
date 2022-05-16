@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "pcrc",
   "latest_version": "1.2.3",
-  "etag": "\"ae9ac7dd542f0760d2f81b369c2b346b8a714e20b9c143752b2f9fead40763b9\"",
+  "etag": "\"912be6fe423e2de7ff96de7f4ad26464136ba74adb71a7bf8d5800b7d5c217aa\"",
   "releases": [
     {
       "url": "https://github.com/Fallen-Breath/PCRC/releases/tag/v1.2.3",
@@ -78,31 +78,6 @@
       "description": "## News & Changes\r\n\r\n- Added CLI `auth`, `help` command\r\n- Added CLI `list` command to show player list\r\n- Improved CLI `status` command\r\n- Added config option `afk_ignore_spectator`, with which spectator flying around will keep pcrc afking\r\n- Now PCRC will do Minecraft authentication at startup, and constantly refresh the token every 3 hours after a successful authentication\r\n\r\n## Fixes\r\n\r\n- Fixed some stored information not reset after reconnecting to the server\r\n\r\n**Full Changelog**: https://github.com/Fallen-Breath/PCRC/compare/v1.1.0...v1.2.0\r\n\r\n## Patches\r\n\r\n### v1.2.1\r\n\r\n- Fixed pcrc records nothing\r\n\r\n**Full Changelog**: https://github.com/Fallen-Breath/PCRC/compare/v1.2.0...v1.2.1",
       "prerelease": false,
       "parsed_version": "1.2.1"
-    },
-    {
-      "url": "https://github.com/Fallen-Breath/PCRC/releases/tag/v1.2.0",
-      "name": "PCRC v1.2.0",
-      "tag_name": "v1.2.0",
-      "created_at": "2022-03-09T08:20:57Z",
-      "assets": [
-        {
-          "name": "PCRC.exe",
-          "size": 9675460,
-          "download_count": 3,
-          "created_at": "2022-03-09T08:25:26Z",
-          "browser_download_url": "https://github.com/Fallen-Breath/PCRC/releases/download/v1.2.0/PCRC.exe"
-        },
-        {
-          "name": "PCRC.pyz",
-          "size": 103664,
-          "download_count": 3,
-          "created_at": "2022-03-09T08:25:26Z",
-          "browser_download_url": "https://github.com/Fallen-Breath/PCRC/releases/download/v1.2.0/PCRC.pyz"
-        }
-      ],
-      "description": "## News & Changes\r\n\r\n- Added CLI `auth`, `help` command\r\n- Added CLI `list` command to show player list\r\n- Improved CLI `status` command\r\n- Added config option `afk_ignore_spectator`, with which spectator flying around will keep pcrc afking\r\n- Now PCRC will do Minecraft authentication at startup, and constantly refresh the token every 3 hours after a successful authentication\r\n\r\n## Fixes\r\n\r\n- Fixed some stored information not reset after reconnecting to the server\r\n\r\n**Full Changelog**: https://github.com/Fallen-Breath/PCRC/compare/v1.1.0...v1.2.0",
-      "prerelease": false,
-      "parsed_version": "1.2.0"
     },
     {
       "url": "https://github.com/Fallen-Breath/PCRC/releases/tag/v1.1.0",
