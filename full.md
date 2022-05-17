@@ -1540,6 +1540,40 @@ Now, I'll introduce the content of the config file:
 | [MirrorServerReforged-v1.0.2.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.2) | 1.0.2 | 2022/02/05 07:17:57 | 8.16KB | 11 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.2/MirrorServerReforged-v1.0.2.mcdr) |
 | [MirrorServerReforged-v1.0.1.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.1) | 1.0.1 | 2022/01/25 01:25:31 | 8.13KB | 22 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.1/MirrorServerReforged-v1.0.1.mcdr) |
 
+## mirror_server_sync
+
+### Basic Information
+
+- Plugin ID: `mirror_server_sync`
+- Plugin Name: Mirror Server Sync
+- Version: 1.0.0
+  - Metadata version: 1.0.0
+  - Release version: N/A
+- Total downloads: 0
+- Authors: [MRNOBODY-ZST](https://github.com/MRNOBODY-ZST), [Power-tile](https://github.com/Power-tile)
+- Repository: https://github.com/VisualSpliter/MirrorServerSync
+- Labels: [`Management`](/labels/management/readme.md)
+- Description: A Simple MCDR Plugin To Sync Map FIles Of Minecraft On Different Servers
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+*None*
+
+### Download
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+
 ## mirror_sync_reforged
 
 ### Basic Information
