@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mirror_server_sync",
+  "latest_version": "N/A",
   "etag": "\"af8b41cf78abacd47741d8e7690b911d67249750a7d5a1cf57b4b5b64e4c1a5b\"",
-  "releases": [],
-  "latest_version": "N/A"
+  "releases": []
 }
