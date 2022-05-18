@@ -1,7 +1,7 @@
 {
   "id": "mcd_task",
   "name": "Task",
-  "version": "2.2.0-alpha.1",
+  "version": "2.2.0",
   "repository": "https://github.com/TISUnion/Task",
   "labels": [
     "tool"
