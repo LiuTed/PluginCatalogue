@@ -1,9 +1,27 @@
 {
   "schema_version": 2,
   "id": "mcd_task",
-  "latest_version": "2.1.0",
-  "etag": "\"2dd462da88a07298055747d5722ee6584333753af406e0550694592cd98b31c9\"",
+  "latest_version": "2.2.0",
+  "etag": "\"3491d8a36e060759906fe111d1a1b68515e52db241204df9d26b84d0999910b6\"",
   "releases": [
+    {
+      "url": "https://github.com/TISUnion/Task/releases/tag/2.2.0",
+      "name": "2.2.0",
+      "tag_name": "2.2.0",
+      "created_at": "2022-05-18T05:26:04Z",
+      "assets": [
+        {
+          "name": "Task-v2.2.0.mcdr",
+          "size": 18602,
+          "download_count": 0,
+          "created_at": "2022-05-18T06:15:18Z",
+          "browser_download_url": "https://github.com/TISUnion/Task/releases/download/2.2.0/Task-v2.2.0.mcdr"
+        }
+      ],
+      "description": "# News\r\n\r\n1. Task overview\r\n   Now you can see a new task overview page when `!!task` is directly called, which could help every players to find the most important or emergency tasks. Only the tasks with approaching deadlines or just was marked as a **high priority task** (This will be introduced below) will be displayed here. And the length of this list will be limited to avoid the text is too long to be display in vanilla Minecraft clients. You can still call `!!task list` to access the old task list view.\r\n\r\n  New relative configuration options:\r\n\r\n| Option name                           | Type   | Default Value | What's this                                                  |\r\n| ------------------------------------- | ------ | ------------- | ------------------------------------------------------------ |\r\n| `default_overview_instead_of_list`    | `bool` | `true`        | If you prefer old task list view as `!!task` command behavior, just set this to `false` to call it back |\r\n| `overview_deadline_warning_threshold` | `int`  | `1`           | This value will control how close the deadline is could make the task appears in task overview page. |\r\n| `overview_maximum_task_amount`        | `int`  | `10`          | Task amount in task overview is limited, you can change this value to make more tasks with priority or deadline to be displayed. |\r\n\r\n2. Priority\r\n\r\n   This is a new attribute of all the tasks, which only accept integers or `None`. Default to `None`. When the amount of tasks with deadline is insufficient for the task overview, in other words, the amount of tasks with deadline is less than the value of `overview_maximum_task_amount` option, these blank will be filled with tasks with priorities until reach the overview limit mentioned above. Setting a suitable priority could make it more simple to find the important tasks for players.\r\n\r\n# Changes\r\n\r\n1. New task detail view to make all the attributes to be displayed. `!!task list-res[ponsibles]` is removed because reponsibles can be queried in detail view.\r\n2. Changed `!!task detail-all` command to `!!task list-all` and make `list-all` view no longer display all the attributes to make the text more suitable to display (although sometime it will still be to long for vanilla client to display XD)\r\n3. Now task and config will both use `Serializable` to check the type, incorrect type in task storage file may raise exceptions on plugin load.\r\n4. Now delete task command could be any in `!!task rm/remove/del/delete <task_title>` \r\n5. Massive other text-based user interface change\r\n\r\n# Fixes\r\n\r\n​    Minor i18n text and TUI fixes",
+      "prerelease": false,
+      "parsed_version": "2.2.0"
+    },
     {
       "url": "https://github.com/TISUnion/Task/releases/tag/2.1.0",
       "name": "v2.1.0",
