@@ -8,9 +8,9 @@
 
 - 插件 ID: `mirror_server_sync`
 - 插件名: Mirror Server Sync
-- 版本: 1.0.0
-  - 元数据版本: 1.0.0
-  - 发布版本: N/A
+- 版本: 1.0.1
+  - 元数据版本: 1.0.1
+  - 发布版本: 1.0.1
 - 总下载量: 0
 - 作者: [MRNOBODY-ZST](https://github.com/MRNOBODY-ZST), [Power-tile](https://github.com/Power-tile)
 - 仓库: https://github.com/VisualSpliter/MirrorServerSync
@@ -49,7 +49,7 @@ Windows安装方法：[cwRsync - Rsync for Windows | itefix.net](https://www.ite
 
 打开终端，执行`ssh-keygen`。无需输入密码，无脑确认即可。再执行`ssh-copy-id Main Server IP`
 
-例如，假如我主服务器的IP为127.0.0.1，命令就为：`ssh-copy-id 127.0.0.1` 
+例如，假如我主服务器的IP为127.0.0.1，命令就为：`ssh-copy-id 127.0.0.1`
 
 之后确认Fingerprint，输入yes后输入对方服务器的密码，一路Enter。
 
@@ -74,7 +74,7 @@ Windows安装方法：[cwRsync - Rsync for Windows | itefix.net](https://www.ite
 
 `main_server_dir`修改为主服务器MCDR文件夹内server文件夹的绝对路径
 
-`mirror)server_dir`修改为镜像服MCDR文件夹内server文件夹的绝对路径
+`mirror_server_dir`修改为镜像服MCDR文件夹内server文件夹的绝对路径
 
 `qb_folder_dir_main`修改为主服务器MCDR文件夹内qb_multi文件夹的绝对路径
 
@@ -88,8 +88,20 @@ Windows安装方法：[cwRsync - Rsync for Windows | itefix.net](https://www.ite
 
 ## 二、指令说明
 
+!!msync 显示用法
+
+!!msync peek 查看主服务器qb最新存档信息
+
+!!msync sync 备份当前镜像服存档，并同步主服务器qb最新存档
+
+!!msync recover 回档至同步前存档
+
+!!msync help 显示用法
+
 ### 下载
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
+| [MirrorServerSync-v1.0.1.mcdr](https://github.com/VisualSpliter/MirrorServerSync/releases/tag/v1.0.1) | 1.0.1 | 2022/05/18 06:23:05 | 3.28KB | 0 | [下载](https://github.com/VisualSpliter/MirrorServerSync/releases/download/v1.0.1/MirrorServerSync-v1.0.1.mcdr) |
+| [MirrorServerSync-v1.0.0.mcdr](https://github.com/VisualSpliter/MirrorServerSync/releases/tag/v1.0.0) | 1.0.0 | 2022/05/17 08:58:02 | 3.24KB | 0 | [下载](https://github.com/VisualSpliter/MirrorServerSync/releases/download/v1.0.0/MirrorServerSync-v1.0.0.mcdr) |
 
