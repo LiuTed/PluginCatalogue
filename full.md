@@ -6,6 +6,54 @@
 
 Use `ctrl-f` to performance an in-page search, for what you are interested in
 
+## advanced_calculator
+
+### Basic Information
+
+- Plugin ID: `advanced_calculator`
+- Plugin Name: AdvancedCalculator
+- Version: 0.1.0
+  - Metadata version: 0.1.0
+  - Release version: N/A
+- Total downloads: 0
+- Authors: [Andy Zhang](https://github.com/AnzhiZhang)
+- Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Labels: [`Tool`](/labels/tool/readme.md)
+- Description: Provides multiple convenient in-game calculations
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+# AdvancedCalculator
+
+> 提供游戏内多种便捷计算
+
+## 使用
+
+您可以使用 `=<expression>` 直接计算表达式
+
+| 指令 | 用途 | 示例 | 结果 |
+| - | - | - | - |
+| !!calc \<expression> | 计算表达式 | !!calc 1+1 | 1+1=2 |
+| !!calc item \<count> | 物品数转换堆叠数 | !!calc item 1794 | 1794个物品为1盒2组3个 |
+| !!calc item \<box> \<stack> \<single> | 堆叠数转换物品数 | !!calc item 1 10 32 | 1盒10组32个为2400个物品 |
+| !!calc color \<red> \<green> \<blue> | 10进制RGB转16进制 | !!calc color 255 0 255 | (255, 0, 255) -> #FF00FF |
+| !!calc color \<#HEX> | 16十进制RGB转10进制 | !!calc color #00FF00 | #00FF00 -> (0, 255, 0) |
+
+### Download
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+
 ## advanced_whitelist_r
 
 ### Basic Information
@@ -323,7 +371,7 @@ Help you manage your carpet fake player
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 381
+- Total downloads: 383
 - Authors: [Harry-zklcdc](https://github.com/Harry-zklcdc)
 - Repository: https://github.com/Harry-zklcdc/MCDR-Cato
 - Labels: [`Tool`](/labels/tool/readme.md)
@@ -358,7 +406,7 @@ When the server starts, it automatically uses Cato (P2P connection tool) for por
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Cato-v1.1.0.mcdr](https://github.com/Harry-zklcdc/MCDR-Cato/releases/tag/cato-v1.1.0) | 1.1.0 | 2021/10/31 08:31:03 | 2.9KB | 350 | [Download](https://github.com/Harry-zklcdc/MCDR-Cato/releases/download/cato-v1.1.0/Cato-v1.1.0.mcdr) |
+| [Cato-v1.1.0.mcdr](https://github.com/Harry-zklcdc/MCDR-Cato/releases/tag/cato-v1.1.0) | 1.1.0 | 2021/10/31 08:31:03 | 2.9KB | 352 | [Download](https://github.com/Harry-zklcdc/MCDR-Cato/releases/download/cato-v1.1.0/Cato-v1.1.0.mcdr) |
 | [Cato-v1.0.0.mcdr](https://github.com/Harry-zklcdc/MCDR-Cato/releases/tag/cato-v1.0.0) | 1.0.0 | 2021/10/14 12:15:08 | 2.93KB | 31 | [Download](https://github.com/Harry-zklcdc/MCDR-Cato/releases/download/cato-v1.0.0/Cato-v1.0.0.mcdr) |
 
 ## chatbridge
