@@ -6,7 +6,7 @@
 
 Plugin Index with label `Management`
 
-Plugin Amount: 19
+Plugin Amount: 20
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -29,4 +29,5 @@ Plugin Amount: 19
 | [StartStopHelperR](/plugins/start_stop_helper_r/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [AnzhiZhang](https://github.com/AnzhiZhang) | Start and stop server helper | 2021/08/23 | [`Management`](/labels/management/readme.md) |
 | [Timed QBM](/plugins/timed_quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Quick-Backup-Multi extension for automatically trigger QBM at given interval | 2022/03/05 | [`Management`](/labels/management/readme.md) |
 | [World Copier](/plugins/world_copier/readme.md) | [Alex3236](https://github.com/alex3236) | Sync your mirror server with main server. | 2022/04/03 | [`Management`](/labels/management/readme.md) |
+| [XiaoHuiHui's Big Pie](/plugins/xiaohuihuis_big_pie/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Run any Python code in game! | 2022/05/21 | [`Information`](/labels/information/readme.md), [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md), [`API`](/labels/api/readme.md) |
 
