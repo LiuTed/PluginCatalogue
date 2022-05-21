@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "id": "xiaohuihuis_big_pie",
+  "latest_version": "0.0.1",
   "etag": "\"83520caa154ca634d025d01552b4dcdcc95726c6ed6b06f9a8db1cc4a5590965\"",
   "releases": [
     {
@@ -21,6 +22,5 @@
       "prerelease": false,
       "parsed_version": "0.0.1"
     }
-  ],
-  "latest_version": "0.0.1"
+  ]
 }
