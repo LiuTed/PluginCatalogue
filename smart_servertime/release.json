@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "smart_servertime",
   "latest_version": "1.0.0",
-  "etag": "\"4f850ea97c97fc5391a90a305913d1f522a05a8e867c2995a19e701761bc9ad0\"",
+  "etag": "\"68bcd6a8761e811e659aa04f60128aa6b5020a67281132f5728ada0ff099a314\"",
   "releases": [
     {
       "url": "https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.0.0",
@@ -13,7 +13,7 @@
         {
           "name": "SmartServerTime-v1.0.0.mcdr",
           "size": 8378,
-          "download_count": 3,
+          "download_count": 4,
           "created_at": "2022-05-11T00:00:58Z",
           "browser_download_url": "https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.0.0/SmartServerTime-v1.0.0.mcdr"
         }

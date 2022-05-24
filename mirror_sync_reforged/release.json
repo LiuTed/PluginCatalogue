@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "mirror_sync_reforged",
   "latest_version": "1.2.1",
-  "etag": "\"64e2ec014409bcab5fff31cd9cca02e2e10d4a327c16ce43a89f95c3d8977b45\"",
+  "etag": "\"aa3a7eeff7a0bc97e5ffa17dc4973f217052e17869d6791d177abe90246d88ef\"",
   "releases": [
     {
       "url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.2.1",
@@ -13,7 +13,7 @@
         {
           "name": "MirrorSyncReforged-v1.2.1.mcdr",
           "size": 5151,
-          "download_count": 26,
+          "download_count": 27,
           "created_at": "2022-04-07T09:33:53Z",
           "browser_download_url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.2.1/MirrorSyncReforged-v1.2.1.mcdr"
         }
