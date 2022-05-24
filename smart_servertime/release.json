@@ -2,7 +2,7 @@
   "schema_version": 2,
   "id": "smart_servertime",
   "latest_version": "1.0.0",
-  "etag": "\"68bcd6a8761e811e659aa04f60128aa6b5020a67281132f5728ada0ff099a314\"",
+  "etag": "\"9b30b7a2400ec95dc76f568f5f8d04e24890ff1ec0ea0e9abc140fde2a1ed564\"",
   "releases": [
     {
       "url": "https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.0.0",
